@@ -16,8 +16,8 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 1. **Clonez le dépôt :**
 
 ```bash
-git clone https://github.com/yourusername/nom-du-repo.git
-cd nom-du-repo
+git clone git@github.com:ssssddgth/treasure-root.git
+cd treasure-root
 ```
 2. **Compilez le projet :**
 
@@ -56,5 +56,5 @@ Cela exécutera tous les tests unitaires et affichera un rapport sur les résult
 
     src/main/java : Contient le code source de l'application.
     src/test/java : Contient les tests unitaires.
-    src/data : Contient les fichiers de ressources (si applicable).
+    src/data : Contient les fichiers de ressources.
 
